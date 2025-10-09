@@ -1,13 +1,32 @@
-## Olá, sou o Walber 👋
+## 👋 Olá, eu sou o Walber Cruz  
 
-## Sobre mim
-🎓 Eu sou o Walber Cruz estudante do Curso de desenvolvimento de sistemas Na instituição Senac Rio Grande do Norde, estou em constante aprendizado  e aprendendo algo novo todos os dias.
-🔧 Em construção: assim como meus projetos, estou evoluindo a cada commit.
-📚 Transformando teoria em prática com projetos reais.
+🎓 Sou estudante do curso técnico de **Desenvolvimento de Sistemas** no **Senac Rio Grande do Norte**.  
+💡 Estou sempre aprendendo algo novo e aplicando na prática — **evoluindo a cada commit!**  
+📚 Transformando **teoria em prática** com projetos reais e desafios diários.
 
-- 🌍 Localização: Natal, Rio Grande do Norte.
-- 🎯 Objetivo: Evoluir constantemente como desenvolvedor, absorvendo novas tecnologias e práticas de mercado.
-- 📚 Estudando: JavaScript, python, Node.js.
-  
+---
+
+### 🌍 Localização  
+📍 **Natal, Rio Grande do Norte - Brasil**
+
+---
+
+### 🎯 Objetivo  
+Evoluir constantemente como desenvolvedor, absorvendo novas **tecnologias**, **boas práticas de mercado** e **experiências reais**.
+
+---
+
+### 🧠 Atualmente estudando
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
+
+---
+
+### ⚙️ Em construção  
+🔧 Assim como meus projetos, **estou sempre evoluindo e aprendendo**.  
+Cada linha de código é um passo rumo à minha melhor versão como desenvolvedor.
 
 
