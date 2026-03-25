@@ -1,7 +1,8 @@
 ## 👋 Olá, eu sou o Walber Cruz  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbercruz03&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas por Walber Cruz" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbercruz03&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walbercruz03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Status" />
 </div>
 
 🎓 Sou estudante do curso técnico de **Desenvolvimento de Sistemas** no **Senac Rio Grande do Norte**.  
