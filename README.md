@@ -7,6 +7,7 @@
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbercruz03&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas por Walber Cruz" />
 </p>
+
 ---
 
 ### 🌍 Localização  
