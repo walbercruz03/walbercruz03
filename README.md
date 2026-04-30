@@ -1,38 +1,57 @@
-## 👋 Olá, eu sou o Walber Cruz  
+# 👋 Olá, eu sou o Walber Cruz
 
-🎓 Sou estudante do curso técnico de **Desenvolvimento de Sistemas** no **Senac Rio Grande do Norte**.  
-💡 Estou sempre aprendendo algo novo e aplicando na prática — **evoluindo a cada commit!**  
-📚 Transformando **teoria em prática** com projetos reais e desafios diários.
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbercruz03&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas por Walber Cruz" />
-</p>
+Atualmente sou **Estagiário de Desenvolvimento**, focado em soluções de backend com **Python** e bancos de dados relacionais, enquanto me especializo no ecossistema **JavaScript**.
 
 ---
 
-### 🌍 Localização  
-📍 **Natal, Rio Grande do Norte - Brasil**
+### 💼 Experiência & Estágio
+No meu dia a dia profissional, atuo com:
+- **Linguagem:** Python para lógica de negócios e automação.
+- **Banco de Dados:** SQL Server (criação de tabelas, procedures e consultas).
+- **ERP:** Desenvolvimento de módulos personalizados para **Odoo** (como o VivaFit Studios).
+- **Infra:** Ambiente de desenvolvimento em **Ubuntu Linux** e containerização com **Docker**.
+
+### 🎓 Educação & Estudos
+Estudante de **Desenvolvimento de Sistemas** no **Senac RN**. Atualmente aprofundando em:
+- **Full Stack:** Node.js, JavaScript, HTML5 e CSS3.
+- **Bancos de Dados:** MySQL para projetos web.
+
+### 🛠️ Toolbox
+- **Linguagens:** Python, JavaScript (Node.js).
+- **Web:** HTML, CSS.
+- **Databases:** SQL Server, MySQL, PostgreSQL.
+- **DevOps:** Docker, Docker Compose, Git.
+- **OS:** Ubuntu Linux.
 
 ---
 
-### 🎯 Objetivo  
-Evoluir constantemente como desenvolvedor, absorvendo novas **tecnologias**, **boas práticas de mercado** e **experiências reais**.
-
----
-
-### 🧠 Atualmente estudando
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
-
-
+### ⚙️ Em Evolução
+"Cada linha de código é um passo rumo à minha melhor versão como desenvolvedor."
 ---
 
 ### ⚙️ Em construção  
 🔧 Assim como meus projetos, **estou sempre evoluindo e aprendendo**.  
 Cada linha de código é um passo rumo à minha melhor versão como desenvolvedor.
+
+### 🚀 Stack Tecnológica
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
+  
+  <!-- Bancos de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
+
+  <!-- DevOps & OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="40" alt="Ubuntu" />
+  
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
+</div>
 
 
