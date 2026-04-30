@@ -35,7 +35,7 @@ Cada linha de código é um passo rumo à minha melhor versão como desenvolvedo
 
 ### 🚀 Stack Tecnológica
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 12px; align-items: center;">
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
@@ -53,5 +53,3 @@ Cada linha de código é um passo rumo à minha melhor versão como desenvolvedo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
 </div>
-
-
